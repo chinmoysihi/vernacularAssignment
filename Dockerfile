@@ -12,7 +12,7 @@ COPY ./requirements.txt /vernaApp/requirements.txt
 
 RUN pip install -r requirements.txt
 
-COPY . /app
+COPY . /vernaApp
 
 EXPOSE 8000
 
