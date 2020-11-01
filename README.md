@@ -51,6 +51,7 @@ URL : http://localhost:8000/validate/numeric_set/
 
 # Image of Docker
 Size of the image : 84.6MB
+
 ![image](https://user-images.githubusercontent.com/33445883/97798976-ef23e300-1c50-11eb-83d2-2f5f021590f6.png)
 
 
